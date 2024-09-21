@@ -1,4 +1,4 @@
-Hi 👋 My name is Teerapat Kotanart
+My name is Teerapat Kotanart. I am an undergraduate student at KMUTNB, Thailand.
 ==================================
 
 *   🌍  I'm based in Bangkok, Thailand
