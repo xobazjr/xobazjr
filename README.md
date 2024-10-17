@@ -1,7 +1,7 @@
 <!-- 
 Hello, and thank you very much for checking out my README. Feel free to use it!.
 -->
-Sawadekub 🙏, I'm <a href="https://www.youtube.com/@XobazJr">XobazJr</a></h2>  
+Sawadekub 🙏, I'm <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">XobazJr</a></h2>  
 ================================== 
 My name is Teerapat Kotanart. I am an undergraduate student at <a href="https://www.kmutnb.ac.th/">KMUTNB</a></h2>, Thailand. 
 
