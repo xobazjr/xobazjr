@@ -34,5 +34,5 @@ My name is Teerapat Kotanart. I am an undergraduate student at <a href="https://
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xobazjr&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="360">
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xobazjr&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="313">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xobazjr&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="323">
 </p>
