@@ -8,7 +8,7 @@ My name is Teerapat Kotanart. I am an undergraduate student at <a href="https://
 <img hight="410" width="497" alt="GIF" align="right" src="https://github.com/xobazjr/xobazjr/blob/main/assets/darth-vader.gif">
 
 *   💻  Computer Science
-*   🧑🏻‍💻  [Portfolio](https://xobazjr.github.io/) website
+*   🧑🏻‍💻  [Portfolio](https://portfolio-teerapat-kotanart.vercel.app/) website
 *   🌍  I'm based in Bangkok, Thailand 
 *   ✉️  You can contact me at [xobazjr@gmail.com](mailto:xobazjr@gmail.com)
 *   🧠  I'm learning HTML, JavaScript, CSS
